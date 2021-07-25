@@ -1,6 +1,6 @@
-package twentyFourJulyTwentyOne;
+package twentyJulyTwentyOne;
 
-import twentyFourJulyTwentyOne.encaptulation.Student;
+import twentyJulyTwentyOne.encaptulation.Student;
 
 public class MainClass {
     public static void main(String[] args){
