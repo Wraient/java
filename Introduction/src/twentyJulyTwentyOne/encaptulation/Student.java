@@ -1,4 +1,4 @@
-package twentyFourJulyTwentyOne.encaptulation;
+package twentyJulyTwentyOne.encaptulation;
 
 public class Student {
     private String name;
