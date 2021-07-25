@@ -1,4 +1,4 @@
-package twentyFourJulyTwentyOne.encaptulation;
+package twentyJulyTwentyOne.encaptulation;
 
 public class Teachers {
     public static void main(String[] args){
